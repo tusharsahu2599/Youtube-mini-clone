@@ -1,7 +1,4 @@
-# YouTube-_Clone-
-Deploy Link :-
-
- https://tusharsahu2599.github.io/YouTube-mini/
+# YouTube_Clone
 
 
 Homepage : 
